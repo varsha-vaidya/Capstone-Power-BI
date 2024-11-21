@@ -25,3 +25,6 @@
 - Created advanced measures for profit margins and delivery performance.
 - Designed visualizations for actionable insights on sales, orders, and performance trends.
 - Exported insights into an interactive dashboard for stakeholder use.
+
+### Conclusion - 
+- This project improved my ability to handle large datasets, visualize meaningful trends and present data-driven recommendations that can positively impact business performance.
